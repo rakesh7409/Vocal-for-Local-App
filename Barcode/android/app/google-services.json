@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826356929685",
+    "firebase_url": "https://django-13fce.firebaseio.com",
+    "project_id": "django-13fce",
+    "storage_bucket": "django-13fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826356929685:android:4978782216b4b05950b79c",
+        "android_client_info": {
+          "package_name": "com.example.qr_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826356929685-ovis0ri01f3tait4stm7htqjmg3j8cs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglR05OjQYwLChcmYOfYIRIZ5c01RS-1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826356929685-ovis0ri01f3tait4stm7htqjmg3j8cs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
